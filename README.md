@@ -361,32 +361,12 @@ MIT License - veja LICENSE.txt para detalhes
 
 ---
 
-## 🤝 Contribuições
-
-Contribuições são bem-vindas!
-
-```bash
-# 1. Fork o projeto
-# 2. Crie uma branch (git checkout -b feature/AmazingFeature)
-# 3. Commit (git commit -m 'Add AmazingFeature')
-# 4. Push (git push origin feature/AmazingFeature)
-# 5. Abra um Pull Request
-```
-
----
-
 ## 👤 Autor
 
-Desenvolvido por **AI2Shield** | Plataforma Inteligente de Análise de Apólices D&O
+Desenvolvido pelo grupo **AI2Shield** | Plataforma Inteligente de Análise de Apólices D&O
 
 - 🌐 GitHub: [@rogernet](https://github.com/rogernet)
-- 📧 Email: rogernet@example.com
-
----
-
-## 📞 Suporte
-
-Para dúvidas ou issues, abra uma issue no repositório GitHub.
+- 📧 Email: rogerio.rogernet@gmail.com
 
 ---
 
