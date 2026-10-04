@@ -1,0 +1,148 @@
+{
+  "apolice_1": {
+    "numero_apolice": "DO-2024-001234",
+    "data_emissao": "15/01/2024",
+    "data_vigencia_inicio": "16/01/2024",
+    "data_vigencia_fim": "15/01/2025",
+    "segurada": "ACME CORPORATION S.A.",
+    "cnpj_segurada": "12.345.678/0001-90",
+    "endereco_segurada": "Av. Paulista, 1000 - São Paulo, SP",
+    "segurador": "SEGUROS BRASIL LTDA",
+    "cnpj_segurador": "98.765.432/0001-10",
+    "limite_responsabilidade_total": "R$ 5.000.000,00",
+    "limite_responsabilidade_valor": 5000000,
+    "franquia": "R$ 50.000,00",
+    "franquia_valor": 50000,
+    "prêmio_anual": "R$ 297.500,00",
+    "prêmio_valor": 297500,
+    "coberturas": [
+      {
+        "nome": "Responsabilidade Civil de Diretores e Administradores (D&A)",
+        "limite": "R$ 5.000.000,00",
+        "franquia": "R$ 50.000,00",
+        "despesas_legais": "Incluído até 25% do limite"
+      },
+      {
+        "nome": "Responsabilidade Profissional (RP)",
+        "limite": "R$ 5.000.000,00",
+        "franquia": "R$ 50.000,00"
+      },
+      {
+        "nome": "Ressarcimento de Despesas (Crime Coverage)",
+        "limite": "R$ 1.000.000,00",
+        "franquia": "R$ 50.000,00"
+      }
+    ],
+    "exclusoes_principais": [
+      "Atos de má fé, fraude ou desonestidade dolosa",
+      "Ilegalidade manifesta ou violação intencional de lei",
+      "Enriquecimento injustificado",
+      "Multas, penalidades e indenizações punitivas",
+      "Perdas diretas ou indiretas de receita, lucros ou poupança"
+    ],
+    "clausulas_especiais": [
+      {
+        "numero": 1,
+        "nome": "Descoberta de Sinistros",
+        "descricao": "Toda reclamação descoberta durante vigência deve ser comunicada imediatamente"
+      },
+      {
+        "numero": 2,
+        "nome": "Limite de Responsabilidade por Período",
+        "descricao": "Total de sinistros em 12 meses não poderá exceder 150% do limite"
+      },
+      {
+        "numero": 3,
+        "nome": "Período de Descoberta Estendido",
+        "descricao": "Estende-se por 12 meses após término, mediante 25% do prêmio"
+      }
+    ],
+    "periodo_descoberta_meses": 12,
+    "forma_pagamento": "À vista",
+    "renovacao": "Automática, salvo aviso contrário 30 dias antes",
+    "cancelamento_dias": 30,
+    "lei_aplicavel": "Lei da República Federativa do Brasil",
+    "foro_competente": "São Paulo, SP"
+  },
+  "apolice_2": {
+    "numero_apolice": "DO-2024-005678",
+    "data_emissao": "01/02/2024",
+    "data_vigencia_inicio": "02/02/2024",
+    "data_vigencia_fim": "01/02/2025",
+    "segurada": "TECH INNOVATIONS BRASIL S.A.",
+    "cnpj_segurada": "87.654.321/0001-45",
+    "endereco_segurada": "Rua Oscar Freire, 500 - São Paulo, SP",
+    "segurador": "SEGUROS INTERNACIONAIS S.A.",
+    "cnpj_segurador": "11.111.111/0001-22",
+    "limite_responsabilidade_total": "R$ 10.000.000,00",
+    "limite_responsabilidade_valor": 10000000,
+    "franquia": "R$ 100.000,00",
+    "franquia_valor": 100000,
+    "prêmio_anual": "R$ 535.500,00",
+    "prêmio_valor": 535500,
+    "coberturas": [
+      {
+        "nome": "Responsabilidade Civil de Diretores e Administradores (D&A)",
+        "limite": "R$ 10.000.000,00",
+        "franquia": "R$ 100.000,00",
+        "despesas_legais": "Incluído até 50% do limite"
+      },
+      {
+        "nome": "Responsabilidade Profissional (RP)",
+        "limite": "R$ 10.000.000,00",
+        "franquia": "R$ 100.000,00"
+      },
+      {
+        "nome": "Responsabilidade Civil da Empresa (E&O)",
+        "limite": "R$ 10.000.000,00",
+        "franquia": "R$ 100.000,00"
+      },
+      {
+        "nome": "Crime Coverage",
+        "limite": "R$ 2.000.000,00",
+        "franquia": "R$ 75.000,00"
+      }
+    ],
+    "exclusoes_principais": [
+      "Atos de má fé dolosa e fraude comprovada",
+      "Condenação final e irrecorrível por crime",
+      "Ilegalidade manifesta",
+      "Responsabilidade contratual (salvo no que couber por lei)",
+      "Multas e penalidades (exceto multas acidentais até 10%)",
+      "Perdas consequentes ou lucros cessantes"
+    ],
+    "clausulas_especiais": [
+      {
+        "numero": 1,
+        "nome": "Descoberta de Sinistros (Extended Reporting Period)",
+        "descricao": "Período estendido de 24 meses (vs. 12 meses padrão)"
+      },
+      {
+        "numero": 2,
+        "nome": "Limite Agregado Anual",
+        "descricao": "Total de sinistros até 200% do limite (vs. 150% padrão)"
+      },
+      {
+        "numero": 3,
+        "nome": "Waiver of Subrogation",
+        "descricao": "Segurador renuncia direitos de sub-rogação contra administradores"
+      },
+      {
+        "numero": 4,
+        "nome": "Inclusão de Partes Relacionadas",
+        "descricao": "Cobertura estende-se a empresas controladas/coligadas"
+      },
+      {
+        "numero": 5,
+        "nome": "Cobertura de Aquisição (M&A)",
+        "descricao": "Proteção automática para empresa adquirida até 90 dias antes"
+      }
+    ],
+    "periodo_descoberta_meses": 24,
+    "forma_pagamento": "Parcelado em 3x",
+    "renovacao": "Automática com 60 dias de antecedência",
+    "cancelamento_dias": 60,
+    "lei_aplicavel": "Lei da República Federativa do Brasil e Normas da SUSEP",
+    "foro_competente": "São Paulo, SP"
+  }
+}

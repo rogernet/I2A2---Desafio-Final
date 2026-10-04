@@ -1,0 +1,19 @@
+# === REQUIREMENTS COMPLETO PARA AVALIAÇÃO FINAL ===
+# Todas as dependências necessárias para app.py
+
+# Core/Web
+streamlit==1.40.0
+python-dotenv==1.0.1
+
+# Document Processing
+pdfplumber==0.10.3
+Pillow==10.4.0
+
+# Database
+sqlalchemy==2.1.0
+
+# LLM Framework
+langchain==0.3.0
+langchain-community==0.3.0
+langchain-anthropic==0.2.0
+langchain-openai==0.2.0
