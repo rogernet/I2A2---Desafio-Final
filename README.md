@@ -365,11 +365,15 @@ MIT License - veja LICENSE.txt para detalhes
 Desenvolvido pelo grupo **AI2Shield** | Plataforma Inteligente de Análise de Apólices D&O
 
 
-| [Daniel Sampaio Passos] | danielsba@gmail.com | [dev] |
-| [Flávia da Silva] | flaviapcnp@gmail.com | [dev] |
-| [Juan Pablo de Jesus Sampaio] | juanpablo.fifa9@gmail.com | [dev] |
-| [Marcio Pohlmann] | marcpohl@gmail.com | [dev] |
-| [Rogério Rodrigues de Oliveira] | rogerio.rogernet@gmail.com | [dev] |
+Daniel Sampaio Passos: danielsba@gmail.com | dev
+
+Flávia da Silva: flaviapcnp@gmail.com | dev 
+
+Juan Pablo de Jesus Sampaio: juanpablo.fifa9@gmail.com | dev
+
+Marcio Pohlmann:marcpohl@gmail.com | dev
+
+Rogério Rodrigues de Oliveira: rogerio.rogernet@gmail.com | dev
 
 ---
 
