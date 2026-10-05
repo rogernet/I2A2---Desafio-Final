@@ -1,4 +1,4 @@
-# InsurMinds - Plataforma Inteligente para Análise de Apólices D&O
+# InsurMinds - A Plataforma Inteligente para Análise de Apólices D&O
 
 ## Descrição do Projeto
 
