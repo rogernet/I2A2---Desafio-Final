@@ -82,15 +82,14 @@ Reduzir o tempo de análise de apólices D&O (Directors and Officers) de horas p
 
 ### Pré-requisitos
 
-- Python 3.8+
+- Python 3.9+
 - pip ou conda
 
 ### Instalação
 
 ```bash
 # 1. Clonar repositório
-git clone https://github.com/rogernet/apolicediff.git
-cd apolicediff
+git clone https://github.com/rogernet/I2A2---Desafio-Final.git
 
 # 2. Criar ambiente virtual
 python -m venv venv
@@ -365,8 +364,12 @@ MIT License - veja LICENSE.txt para detalhes
 
 Desenvolvido pelo grupo **AI2Shield** | Plataforma Inteligente de Análise de Apólices D&O
 
-- 🌐 GitHub: [@rogernet](https://github.com/rogernet)
-- 📧 Email: rogerio.rogernet@gmail.com
+
+| [Daniel Sampaio Passos] | danielsba@gmail.com | [dev] |
+| [Flávia da Silva] | flaviapcnp@gmail.com | [dev] |
+| [Juan Pablo de Jesus Sampaio] | juanpablo.fifa9@gmail.com | [dev] |
+| [Marcio Pohlmann] | marcpohl@gmail.com | [dev] |
+| [Rogério Rodrigues de Oliveira] | rogerio.rogernet@gmail.com | [dev] |
 
 ---
 
