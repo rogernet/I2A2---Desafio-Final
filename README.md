@@ -89,7 +89,10 @@ Reduzir o tempo de análise de apólices D&O (Directors and Officers) de horas p
 
 ```bash
 # 1. Clonar repositório
+
 git clone https://github.com/rogernet/I2A2---Desafio-Final.git
+cd I2A2---Desafio-Final
+python -m venv venv
 
 # 2. Criar ambiente virtual
 python -m venv venv
